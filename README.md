@@ -1,6 +1,18 @@
 
 # Django 
 
+## 🚀 Setup
+
+🔰 install pip offline
+
+```sh
+
+cd oi/packages
+
+pip install *.whl
+
+```
+
 ## 🚀 Git Commit Guidelines
 
 - `feat:` for new features
